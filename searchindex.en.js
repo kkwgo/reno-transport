@@ -5,7 +5,7 @@ var relearn_searchindex = [
     "description": "image with width.\nImage with height\nImage at left\nImage inline",
     "tags": [],
     "title": "test page #1",
-    "uri": "/proj1/first/index.html"
+    "uri": "/reno-transport/proj1/first/index.html"
   },
   {
     "breadcrumb": "Transport Fun",
@@ -13,7 +13,7 @@ var relearn_searchindex = [
     "description": "Reno Transport Fun.",
     "tags": [],
     "title": "Reno Transport Fun",
-    "uri": "/proj1/index.html"
+    "uri": "/reno-transport/proj1/index.html"
   },
   {
     "breadcrumb": "Transport Fun",
@@ -21,7 +21,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Categories",
-    "uri": "/categories/index.html"
+    "uri": "/reno-transport/categories/index.html"
   },
   {
     "breadcrumb": "Transport Fun",
@@ -29,7 +29,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/tags/index.html"
+    "uri": "/reno-transport/tags/index.html"
   },
   {
     "breadcrumb": "",
@@ -37,6 +37,6 @@ var relearn_searchindex = [
     "description": "Fun stuff about transportations.",
     "tags": [],
     "title": "Transport Fun",
-    "uri": "/index.html"
+    "uri": "/reno-transport/index.html"
   }
 ]
