@@ -1,7 +1,7 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "Transport Fun \u003e Reno Transport Fun",
-    "content": "image with width.\nImage with height\nImage at left\nImage inline",
+    "content": "image with width.\nImage with height\nImage at left\nImage inline\n====\u003e end of the page \u003c====",
     "description": "image with width.\nImage with height\nImage at left\nImage inline",
     "tags": [],
     "title": "test page #1",
