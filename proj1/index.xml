@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reno Transport Fun | Reno Transport</title><link>https://example.org/proj1/index.html</link><description>Reno Transport Fun.</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/proj1/index.xml" rel="self" type="application/rss+xml"/><item><title>test page #1</title><link>https://example.org/proj1/first/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/proj1/first/index.html</guid><description>image with width.
-Image with height
-Image at left
-Image inline</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reno Transport Fun | Reno Transport</title>
+    <link>http://localhost:1313/proj1/index.html</link>
+    <description>Reno Transport Fun.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/proj1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test page #1</title>
+      <link>http://localhost:1313/proj1/first/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proj1/first/index.html</guid>
+      <description>image with width.&#xA;Image with height&#xA;Image at left&#xA;Image inline</description>
+    </item>
+  </channel>
+</rss>
